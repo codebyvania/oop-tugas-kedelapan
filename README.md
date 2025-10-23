@@ -32,30 +32,30 @@ Aplikasi ini tidak menggunakan proses CRUD dengan database, melainkan hanya mena
 1. 🧾 **Buat file data di Excel**, lalu simpan dengan format:
    `CSV UTF-8 (Comma delimited) (*.csv)`
    
-   <img width="666" height="172" alt="image" src="https://github.com/user-attachments/assets/bbe10dcc-7c1c-484e-a00b-fe8ae9f81d8a" />
-   
-   <img width="981" height="263" alt="image" src="https://github.com/user-attachments/assets/f892631e-ed14-470b-b250-4bb70e18a071" />
+<img width="738" height="185" alt="image" src="https://github.com/user-attachments/assets/c9fd3706-19ec-409a-a68b-88ee91dc11ec" />
+
+<img width="981" height="263" alt="image" src="https://github.com/user-attachments/assets/e7ffd47f-5d70-4da4-9a41-4be9c8dcabf8" />
+
    
 2. ▶️ **Jalankan aplikasi** melalui NetBeans atau command line.
 3. 🖱️ Klik tombol **“Upload”** pada tampilan GUI.
    
-   <img width="694" height="411" alt="image" src="https://github.com/user-attachments/assets/5bc21658-dfe4-4d10-8bb7-e957f12dd7cd" />
-   
+   <img width="799" height="472" alt="image" src="https://github.com/user-attachments/assets/75741b81-59d3-45e7-afd1-4d34b9593966" />
+
 4. 📁 Pilih file CSV yang telah dibuat.
    
-   <img width="606" height="444" alt="image" src="https://github.com/user-attachments/assets/0e33df3b-f57f-4dc1-90b0-1166058b07ef" />
-   
-   <img width="413" height="234" alt="image" src="https://github.com/user-attachments/assets/ffe69153-87f7-49a9-85a1-c1a282118cd1" />
+   <img width="725" height="531" alt="image" src="https://github.com/user-attachments/assets/d4aa470c-c83d-412e-b440-27ecac08ce4d" />
    
 5. 👀 Data dari file akan otomatis ditampilkan di **JTable**.
-   
+   <img width="916" height="542" alt="image" src="https://github.com/user-attachments/assets/64d48230-5dc9-447c-9a45-176116f4aa21" />
+
     
 
 ---
 
 ## 📄 Contoh Struktur File CSV dengan pemisah koma(,)
 
-<img width="1013" height="751" alt="image" src="https://github.com/user-attachments/assets/68fff34e-0df1-4a74-8ad3-4606e3b452cf" />
+<img width="884" height="751" alt="image" src="https://github.com/user-attachments/assets/da0de92d-5fc3-4fbc-b231-ddf0adb8fa25" />
 
 
 ## ⚙️ Penjelasan Teknis Singkat
