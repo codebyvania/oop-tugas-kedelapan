@@ -1,2 +1,0 @@
-BhsException.DataPasien
-BhsException.TanggalLahirTidakValidException

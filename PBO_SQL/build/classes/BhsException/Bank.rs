@@ -1,2 +1,0 @@
-BhsException.Bank
-BhsException.SaldoTidakCukupException
